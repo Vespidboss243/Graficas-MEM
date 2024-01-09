@@ -5,6 +5,8 @@ Graficas para el analisis del MEM
 
 Representa los precios de bolsa dia a dia , tomando el precio promedio, maximo y minimo, mostrando tambien variables como el ponderado y el de activación 
 
+![image](https://github.com/Vespidboss243/Graficas-MEM/assets/77710376/a6156196-86ad-4b91-a056-51220384aad3)
+
 ## Aportes Vs Demanda
 
 La grafica muestra los aportes con respecto a la demanda nacional, teniendo en cuenta la media historica de los aportes y el promedio de la demanda por mes
